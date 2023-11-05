@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mlaskowski7
-- 👀 I’m interested in web-development, front-end, back-end
+- 👀 I’m interested in web-development, back-end, front-end
 - 🌱 I’m currently learning django, django rest framework, javascript, react
 - 💞️ I’m looking to collaborate on web-development
 - 📫 How to reach me email - mtlaskowski7@gmail.com
