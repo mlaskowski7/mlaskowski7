@@ -15,6 +15,6 @@ Junior Software Engineer exploring the realms of React, Java Spring, Django, and
 - **Backend:** Java Spring, Django, Node.js
 - **Tools:** Git, Postman
 
-## Quick Stats
+## Top languages
 
-[![mlaskowski7's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlaskowski7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlaskowski7)](https://github.com/anuraghazra/github-readme-stats)
