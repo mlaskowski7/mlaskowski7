@@ -17,4 +17,4 @@ Junior Software Engineer exploring the realms of React, Java Spring, Django, and
 
 ## Quick Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mlaskowski7&show_icons=true)
+[![mlaskowski7's GitHub stats](https://github-readme-stats.vercel.app/api?username=mlaskowski7)](https://github.com/anuraghazra/github-readme-stats)
