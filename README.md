@@ -18,3 +18,35 @@ Junior Software Engineer exploring the realms of React, Java Spring, Django, and
 ## Top languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlaskowski7&layout=compact)
+
+## My Projects
+
+Quiz Application 📝
+🌐 Java Spring
+⚛️ React.js + Vite
+🎨 Tailwind CSS
+📦 PostgreSQL
+
+Friends 👥
+🐍 Django + SQLite
+🎨 Tailwind CSS
+💻 jQuery + AJAX
+
+Movies 🎬
+🌐 Java Spring + MongoDB
+⚛️ React + Bootstrap
+
+3D Web Portfolio 🌍
+⚛️ React.js
+🎨 Tailwind CSS
+🕹️ Three.js
+
+ecomSite 🛒
+🐍 Django + SQLite
+🎨 Bootstrap4
+💻 jQuery
+
+CV Generator 📄
+🐍 Django + SQLite
+🎨 HTML + CSS
+🖨️ pdfkit + wkhtmltopdf
