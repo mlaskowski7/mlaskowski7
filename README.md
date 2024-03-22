@@ -11,7 +11,7 @@ Junior Software Engineer exploring the realms of React, Java Spring, Django, and
 
 ## Skills
 
-- **Frontend:** React, Tailwind CSS, JavaScript
+- **Frontend:** React, Tailwind CSS
 - **Backend:** Spring + Spring Boot, Django, Node.js
 - **Tools:** Git, Postman
 
