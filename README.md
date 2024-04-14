@@ -17,6 +17,6 @@ Junior Software Engineer exploring the realms of React, Java Spring, Django, and
 
 ## Top languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlaskowski7&layout=compact&hide=powershell;HTML&hide_progress=true )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlaskowski7&layout=compact&hide=powershell&hide_progress=true )
 
 
