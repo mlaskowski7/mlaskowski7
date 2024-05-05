@@ -16,6 +16,6 @@ I'm passionate about building scalable web applications and learning new technol
 
 ## Top languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlaskowski7&layout=compact&hide=powershell&hide_progress=true )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlaskowski7&layout=compact&hide=powershell&hide=css&hide_progress=true )
 
 
