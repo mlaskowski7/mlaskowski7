@@ -1,18 +1,17 @@
 # Hello! I'm Mateusz 👋
 
 ## About Me
+I'm passionate about building scalable web applications and learning new technologies.
 
-Junior Software Engineer exploring the realms of React, Java Spring, Django, and venturing into Node.js & Next.js. I'm passionate about building scalable web applications and learning new technologies.
-
-- 🌱 Currently learning: **Node.js & Next.js**
+- 🌱 Currently learning: **C# & ASP.NET**
 - 👯 Looking to collaborate on **open source projects**
 - 📫 How to reach me: [Email](mailto:mtlaskowski7@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mateusz-laskowski-42472a269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 🌐 Portfolio: [Visit here](https://mlaskowski7.github.io/personalWebsite/)
 
 ## Skills
 
-- **Frontend:** React, Tailwind CSS
-- **Backend:** Spring + Spring Boot, Django, Node.js
+- **Frontend:** React, Typescript, Tailwind CSS
+- **Backend:** Spring + Spring Boot, Node.js, Django
 - **Tools:** Git, Postman
 
 ## Top languages
