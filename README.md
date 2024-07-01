@@ -1,14 +1,5 @@
 # Hello! I'm Mateusz 👋
 
-## About Me
-
-I'm passionate about building scalable web applications and learning new technologies.
-
-- 🌱 Currently learning: **Rust & Next.JS**
-- 👯 Looking to collaborate on **open source projects**
-- 📫 How to reach me: [Email](mailto:mtlaskowski7@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mateusz-laskowski-42472a269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- 🌐 Portfolio: [Visit here](https://mlaskowski7.github.io/personalWebsite/)
-
 ## Skills
 
 - **Frontend:** React, Typescript, Javascript, Tailwind CSS
