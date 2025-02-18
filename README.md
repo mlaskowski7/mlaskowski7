@@ -1,4 +1,3 @@
-# Hello! I'm Mateusz 👋
 
 ## Top languages
 
